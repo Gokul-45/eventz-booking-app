@@ -1,0 +1,52 @@
+# 🎉 Eventz - Local Event Booking Console App 🎟️
+
+## 📝 Project Overview
+Ithu oru Java console application. Namma local events (music, sports, seminar, etc.) manage panna, ticket book panna use pannalaam.  
+Ella data-um MySQL database la store aagum. Output la colorum, emoji-um use pannirukken.  
+Admin & User mode irukku.
+
+## ✨ Main Features
+- 👑 Admin & User Login
+- 🆕 Event Create, Update, Delete
+- 💰 Ticket Price, Seat Limit
+- 💳 Payment Simulation
+- 📧 Email Validation
+- 🔍 Event Search
+- 📄 Export to CSV
+- ❌ Cancel Booking
+- 🎨 Colorful Console Output
+- 😃 Emoji Support
+
+## 🔄 How it works (Flow)
+1. 👋 App open pannina, "Welcome to Eventz" nu varum (colorful, emoji)
+2. 👑 Admin login, 👤 User login
+3. 🆕 Event create, 🏷️ Book Ticket, 📄 View Bookings, ❌ Cancel Booking
+4. 💳 Payment Section, 🎫 Booking Confirmed!
+5. 📄 Export CSV, 🔍 Search Events
+
+## 🗄️ Database Structure
+- event (id, name, date, location, description, price, totalSeats, bookedSeats)
+- participant (id, name, email, rsvp, cancelled, event_id)
+
+## 🛠️ Technologies Used
+- Java (console)
+- Hibernate ORM
+- MySQL
+- ANSI color codes
+- Emoji (UTF-8)
+- log4j (optional)
+
+## ▶️ How to Run
+1. 🛠️ MySQL la table create pannunga
+2. 🏃‍♂️ Java la Main.java run pannunga
+3. 📦 JAR files add pannunga
+4. 📝 DB username/password set pannunga
+
+## 📝 Extra Notes
+- 💡 Java 11/17/21/25 la run panna, VM options add pannunga
+- 🖥️ IntelliJ/VSCode la run pannina best color/emoji support
+
+---
+
+Project la doubt irundha, README.md la steps follow pannunga.  
+All the best! 😊
