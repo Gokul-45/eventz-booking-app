@@ -28,8 +28,6 @@ Admin & User mode irukku.
 
 ## 📸 Screenshots
 
-> **Add your screenshots in a `screenshots/` folder and link here. Example:**
-
 ![Admin Menu](screenshots/admin_menu.png)
 ![user menu](screenshots/user_menu.png)
 ![User Booking](screenshots/user_booking.png)
@@ -38,8 +36,6 @@ Admin & User mode irukku.
 ---
 
 ## ▶️ Demo Video
-
-> **Add your demo video link here (Google Drive, YouTube, etc.):**
 
 [Watch Demo Video](https://your-demo-link-here)
 
